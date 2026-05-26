@@ -1,0 +1,9 @@
+construct,n_complete,n_items,cronbach_alpha
+llm_usage_score,48,3,0.8921190893169878
+coding_usage_score,41,3,0.7975939849624059
+llm_performance_score,48,6,0.876670146137787
+coding_performance_score,41,6,0.8446861097380128
+future_intent_score,149,3,0.754780817887614
+traditional_preference_score,147,3,0.8157387061612192
+positive_fix_outcome_score,149,2,0.7424490875429781
+negative_fix_outcome_score,148,3,0.7380742568440841

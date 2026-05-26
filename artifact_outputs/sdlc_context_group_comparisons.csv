@@ -1,0 +1,26 @@
+group,positive_label,outcome,n_positive,n_other,median_positive,median_other,U,p,context
+ctx__8222011264835822096,True,overall_ai_usage_score,111,37,3.5,3.25,2603.5,0.014385874108788289,"While coding in the IDE (inline support, autocomplete, inline analysis)"
+ctx__8222011264835822096,True,overall_performance_score,111,37,3.5,3.3333333333333335,2333.5,0.21354045190261361,"While coding in the IDE (inline support, autocomplete, inline analysis)"
+ctx__8222011264835822096,True,risk_score,112,38,3.0,3.0,1964.5,0.4530734901474236,"While coding in the IDE (inline support, autocomplete, inline analysis)"
+ctx__8222011264835822096,True,verification_breadth_score,113,40,3.0,3.0,2485.5,0.32638513342946296,"While coding in the IDE (inline support, autocomplete, inline analysis)"
+ctx__8222011264835822096,True,future_intent_score,113,37,4.333333333333333,4.0,2394.5,0.17621871370026043,"While coding in the IDE (inline support, autocomplete, inline analysis)"
+ctx__3979649422978918539,True,overall_ai_usage_score,99,49,3.5,3.3333333333333335,2943.5,0.033934948285793666,"During code review (pull requests, merge checks)"
+ctx__3979649422978918539,True,overall_performance_score,99,49,3.5,3.5,2568.0,0.5609169396713827,"During code review (pull requests, merge checks)"
+ctx__3979649422978918539,True,risk_score,100,50,3.0,3.0,2321.0,0.4484168198987055,"During code review (pull requests, merge checks)"
+ctx__3979649422978918539,True,verification_breadth_score,101,52,3.0,2.0,3456.0,0.0007891484644200864,"During code review (pull requests, merge checks)"
+ctx__3979649422978918539,True,future_intent_score,100,50,4.333333333333333,4.0,3166.5,0.006648276725774708,"During code review (pull requests, merge checks)"
+ctx__6585336118912821740,True,overall_ai_usage_score,61,87,3.75,3.25,3652.0,9.214758289832775e-05,"As part of CI/CD pipelines (automated scans, build checks)"
+ctx__6585336118912821740,True,overall_performance_score,61,87,3.5,3.375,2761.5,0.6738513679313347,"As part of CI/CD pipelines (automated scans, build checks)"
+ctx__6585336118912821740,True,risk_score,61,89,3.0,3.0,2850.0,0.5821805142076808,"As part of CI/CD pipelines (automated scans, build checks)"
+ctx__6585336118912821740,True,verification_breadth_score,61,92,3.0,3.0,3658.0,0.0008583773679084116,"As part of CI/CD pipelines (automated scans, build checks)"
+ctx__6585336118912821740,True,future_intent_score,61,89,4.0,4.333333333333333,2795.5,0.7529043814393725,"As part of CI/CD pipelines (automated scans, build checks)"
+ctx__7165510262613054101,True,overall_ai_usage_score,61,87,3.6666666666666665,3.5,2860.0,0.41957750390920157,During testing or fuzzing (runtime/dynamic checks)
+ctx__7165510262613054101,True,overall_performance_score,61,87,3.5,3.3333333333333335,3123.5,0.06604514437390883,During testing or fuzzing (runtime/dynamic checks)
+ctx__7165510262613054101,True,risk_score,62,88,3.0,3.0,2196.5,0.030868150474135148,During testing or fuzzing (runtime/dynamic checks)
+ctx__7165510262613054101,True,verification_breadth_score,62,91,3.0,3.0,3389.0,0.02671889095660965,During testing or fuzzing (runtime/dynamic checks)
+ctx__7165510262613054101,True,future_intent_score,62,88,4.333333333333333,4.166666666666666,2824.0,0.7094853233073057,During testing or fuzzing (runtime/dynamic checks)
+ctx__2903915151940818548,True,overall_ai_usage_score,85,63,3.6666666666666665,3.3333333333333335,3198.0,0.04252707368180704,"For security learning or documentation (understanding vulnerabilities, training)"
+ctx__2903915151940818548,True,overall_performance_score,85,63,3.5,3.375,2920.5,0.34458963227115347,"For security learning or documentation (understanding vulnerabilities, training)"
+ctx__2903915151940818548,True,risk_score,87,63,3.0,3.0,2429.5,0.20786840928952233,"For security learning or documentation (understanding vulnerabilities, training)"
+ctx__2903915151940818548,True,verification_breadth_score,87,66,3.0,2.0,3785.5,0.0004044298785083789,"For security learning or documentation (understanding vulnerabilities, training)"
+ctx__2903915151940818548,True,future_intent_score,86,64,4.333333333333333,4.0,3138.5,0.13381828937324147,"For security learning or documentation (understanding vulnerabilities, training)"

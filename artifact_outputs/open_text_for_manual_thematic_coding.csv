@@ -1,0 +1,156 @@
+QID158
+""
+""
+""
+My experience is that AI usually misses the most common vulnerability I encounter: broken access controls. In particular it almost never detects missing resource-level access controls (e.g. ensuring the resource belongs to the user requesting it).
+Not really
+""
+""
+"Yes. AI tools are powerful for automating detection and analysis, but they are not perfect. Always combine AI insights with human expertise, regularly update models, and be aware of false positives/negatives. Context and data quality are key to effective security."
+"Claude and gemini and gtp all helped me secure evidence against a possible could hundred million dollar crypto washing mashine soooo, yeah.  I like using AI, each has its own use."
+Trust the results but we need to verify them for results.
+nothing
+""
+""
+""
+""
+"AI tools are incredibly useful for speeding up security tasks, but they shouldn’t replace human judgment. They work best as decision-support systems helping with pattern detection, log analysis, and triage—but their outputs still need validation. Clear boundaries, proper tuning, and continuous human oversight are essential to avoid false positives, blind spots, or over-reliance on automated results."
+""
+Nope
+"We really have to focus on wearables data tracking because it is basically monitoring our identity, not just activities."
+""
+""
+""
+""
+""
+""
+theyre good
+""
+""
+""
+"Over-reliance risk: AI may generate false positives or missed positives. If one relies entirely on AI for decision-making, it may lead security personnel to overlook contextual judgments.
+
+Adversarial attack: Attackers may deceive AI models by poisoning data or designing adversarial samples (for example, allowing malware to evade detection). The security team needs to continuously test the robustness of the AI system."
+"AI helps, but always double-check, it's not perfect."
+"If I could share one critical thought about using AI for security, it’s that we must treat it as a brilliant co-pilot, not a replacement captain."
+"As a graduate student working on ML and software development projects, I find AI tools like ChatGPT and Claude particularly helpful for understanding security concepts and explaining vulnerability reports. They're great for learning about security best practices quickly. However, I still rely on traditional tools like static analyzers for actual detection since they provide more consistent and verifiable results. The combination works well for academic projects where I need to both understand and implement secure code."
+""
+""
+""
+""
+""
+Thanks
+""
+"It may not always give the right answer, but it can think of things you have not thought of before, giving a different perspective. As AI grows every year, their ability to know and learn increases. AI os being used in Seam and firewall hardware and software more and more as humans can't keep up with its pace of data ingest, analysis and output."
+""
+""
+There isn't anything else I'd like to share about using AI tools for security tasks
+-
+""
+""
+AI will soon automate the whole workflow and security is the only thing which will always require some human intervention.
+""
+""
+""
+""
+"No, everything was clear"
+no
+"In my experience, AI based code tools (Codex, Gemini in Android Studio) perform better as they have quick access to the source code files, and can detect underlying issues through related files."
+no
+Nil
+""
+""
+"AI tools are useful in detecting and explaining vulnerabilities, but they should always be checked manually and traditional tools used to ensure accuracy and security."
+No
+""
+no
+""
+"AI tools are helpful for speeding up analysis, but i always verify results before applying them."
+""
+no
+"Not really, but there's no other place to write this: I like these kind of studies, however I don't have too much experience on security/vulnerabilities because of most of my work. However, I do have a lot of experience on AI, so if there's a research opportuinity about that, please contact me!"
+no
+""
+"There's a lot of noise currently, but I expect the output of LLMs to improve steadily with regards to security tasks."
+Nope
+""
+"AI can be helpful for security tasks, but its suggestions should always be carefully verified against trusted sources because it may give confident yet outdated or incorrect advice."
+""
+""
+""
+"Thanks to AI, the roles and responsibilities of a Software Engineer like me are gradually expanding."
+"We have to be extra careful when using AI/LLMS for bug repairs, since the Ai tends to produce more code than it is requested, it can introduce unwanted extra features/bugs that can enter our development if we do not check it beforehand"
+No.
+No.
+No
+Not yet
+""
+we should be more carefull while using Al tools
+""
+"Yes, they are not an all-in-one solution. Build from scratch and then implement AI slowly to improve detections and do the heavy lifting as time goes on."
+No
+""
+AI often lacks the broader architectural context of the application needed to understand the complex attack vectors or business logic flaws. Manual review is always important.
+""
+They get better every other use.
+""
+"I believe the future of software security lies in 'Agentic Workflows' where AI tools don't just act as passive assistants, but as active monitors within the CI/CD pipeline. However, the biggest bottleneck remains the 'Context Window' and the AI's ability to understand the entire repository's architecture rather than just isolated code snippets. We need more focus on AI's ability to verify its own suggested fixes using traditional tools before presenting them to the developer."
+""
+""
+"Not at the moment, no"
+No.
+No
+""
+""
+""
+"Sometimes it's difficult to tell whether AI reply is real or it's a hallucination and it can miss some details. Overall, I use it as a helper, not a solution."
+""
+""
+""
+""
+I often do not pay much attention to security for generated code as I think there's little room for vulnerabilities for what I work on.
+""
+Nothing else to add.
+""
+""
+""
+They aren't good at fixing the issues but they are VERY good at explaining what the issue is about and prodiving personalized context for the issue especially since a lot of developers are scared to ask more senior members of the team for help so having a personal assistant that can explain and give documentation for specific issues is really good at fixing them. But when codebases are large they are mostly useless as fixing the actual issue as they don't understand how it all fits into a larger context.
+""
+No thank you :)
+"AI tools are exactly that. They are tools. Like a search engine, they are a wealth of knowledge. But they should not be considered infallible. When used properly, these tools will make any developer more efficient. But they are not ready to replace use just yet."
+AI tool is helpful in security tasks but we need dont fully trusted them they can make mistakes
+No
+""
+""
+"Alternative employment, here I come!"
+""
+no
+"I would say to always treat AI output as a draft, not a decision. And validate against trusted standards and context before acting."
+No
+""
+"AI tools are helpful for speeding up security tasks, but they shouldn’t be fully trusted without human review. They can miss context or make incorrect assumptions, so validation is always important."
+"AI is a great time saver for explaining and drafting patches, but human review is still necessary. It also helps juniors to learn faster about coding."
+""
+""
+""
+"I use AI for alert classification and phishing detection—these are the main achievements so far. It helps analysts focus on real threats rather than false positives. Of course, human review is still required; we don’t fully trust it on its own yet."
+""
+""
+Always double check no matter how good the AI is
+"As much as it helps in saving time, it’s still not perfect and could introduce vulnerability if not reviewed thoroughly. Precautions must be taken and not use it blindly."
+no
+"The same question that is always posed: it's useful but should be kept to a minimum, since you're giving data to AI companies at the end of the day."
+Not that would be relevant
+""
+Nothing
+""
+Thank you!
+""
+No
+""
+""
+""
+""
+""
+""
+""

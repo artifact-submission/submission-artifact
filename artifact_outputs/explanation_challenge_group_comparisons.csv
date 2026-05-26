@@ -1,0 +1,25 @@
+group,positive_label,outcome,n_positive,n_other,median_positive,median_other,U,p,challenge
+challenge__6797759457400072624,True,risk_score,61,89,3.0,3.0,2829.5,0.6407480178687264,Explanations were too vague or generic
+challenge__6797759457400072624,True,overall_performance_score,61,87,3.5,3.5,2658.5,0.9859438073711886,Explanations were too vague or generic
+challenge__6797759457400072624,True,future_intent_score,61,89,4.333333333333333,4.333333333333333,2730.5,0.9516650468384806,Explanations were too vague or generic
+challenge__6797759457400072624,True,traditional_preference_score,61,89,3.3333333333333335,3.3333333333333335,2779.5,0.803661198569321,Explanations were too vague or generic
+challenge__2378680861126781428,True,risk_score,46,104,3.0,3.0,2369.0,0.922181045351163,Explanations were too technical or jargon-heavy
+challenge__2378680861126781428,True,overall_performance_score,47,101,3.5,3.5,2657.0,0.2414014756549877,Explanations were too technical or jargon-heavy
+challenge__2378680861126781428,True,future_intent_score,47,103,4.333333333333333,4.0,2771.0,0.14720020223056132,Explanations were too technical or jargon-heavy
+challenge__2378680861126781428,True,traditional_preference_score,47,103,3.3333333333333335,3.3333333333333335,2102.5,0.19498282242059817,Explanations were too technical or jargon-heavy
+challenge__4478664580643056125,True,risk_score,86,64,3.0,3.0,3113.0,0.14451014441664914,Explanations lacked sufficient context about the codebase
+challenge__4478664580643056125,True,overall_performance_score,86,62,3.375,3.6333333333333333,2120.0,0.03311810650757063,Explanations lacked sufficient context about the codebase
+challenge__4478664580643056125,True,future_intent_score,86,64,4.333333333333333,4.0,2815.0,0.8082004055483363,Explanations lacked sufficient context about the codebase
+challenge__4478664580643056125,True,traditional_preference_score,86,64,3.6666666666666665,3.0,3143.0,0.13494830514775336,Explanations lacked sufficient context about the codebase
+challenge__6826729732398379585,True,risk_score,67,83,3.0,3.0,3300.0,0.03662069314619664,Explanations overstated or understated the severity
+challenge__6826729732398379585,True,overall_performance_score,66,82,3.5,3.45,2736.0,0.9089459273941776,Explanations overstated or understated the severity
+challenge__6826729732398379585,True,future_intent_score,67,83,4.333333333333333,4.333333333333333,2775.5,0.98612702523477,Explanations overstated or understated the severity
+challenge__6826729732398379585,True,traditional_preference_score,67,83,3.3333333333333335,3.6666666666666665,2432.5,0.18569337017236887,Explanations overstated or understated the severity
+challenge__7722698922666979169,True,risk_score,54,96,3.0,3.0,2885.5,0.2216942191350968,Explanations were incorrect or misleading
+challenge__7722698922666979169,True,overall_performance_score,52,96,3.3375,3.5,2029.5,0.05995897704160552,Explanations were incorrect or misleading
+challenge__7722698922666979169,True,future_intent_score,54,96,4.333333333333333,4.166666666666666,2463.0,0.6070675430778378,Explanations were incorrect or misleading
+challenge__7722698922666979169,True,traditional_preference_score,54,96,3.6666666666666665,3.3333333333333335,2893.5,0.23511447412426056,Explanations were incorrect or misleading
+challenge__642772789398570663,True,risk_score,31,119,3.0,3.0,2039.5,0.33622886788322526,Explanations recommended insecure patterns
+challenge__642772789398570663,True,overall_performance_score,30,118,3.3333333333333335,3.5,1483.5,0.1703857004484911,Explanations recommended insecure patterns
+challenge__642772789398570663,True,future_intent_score,31,119,4.0,4.333333333333333,1708.5,0.5203303959214998,Explanations recommended insecure patterns
+challenge__642772789398570663,True,traditional_preference_score,31,119,3.6666666666666665,3.3333333333333335,2071.0,0.29062177645599785,Explanations recommended insecure patterns
