@@ -35,15 +35,15 @@ The script regenerates every file in `outputs/`.
 
 | Paper section | Output files |
 |---|---|
-| Table 1, Section 3.2 (sample) | `revision/R01`, `revision/R02`, `descriptive_tables.xlsx` |
-| RQ1 (tool use and allocation) | `revision/R10`, `R11`, `R17`, `R18`, `R19`, `better_tool_by_task.png` |
-| RQ2 (performance and risk) | `revision/R03`, `wilcoxon_llm_vs_coding_tools.csv`, `risk_distribution_scale_order.png` |
-| RQ3 (verification) | `role_verification_method_comparisons.csv`, `revision/R13`, `verification_methods.png` |
-| RQ4 (failures) | `revision/R12`, `R21`, `R22`, `R23` |
-| RQ5 primary analysis | `revision/R04`-`R08`, `future_use_by_risk_and_task.png` |
-| RQ5 underlying factors | `revision/R14`, `R15`, `R16`, `R20` |
-| RQ5 secondary regression | `revision/R09`, `regression_future_intent_standardized_OLS.csv` |
-| Section 3.6 (intercoder reliability) | `revision/R24`, `R24b`, `R25` |
+| Table 1, Section 3.2 (sample) | `R01`, `R02`, `descriptive_tables.xlsx` |
+| RQ1 (tool use and allocation) | `R10`, `R11`, `R17`, `R18`, `R19`, `better_tool_by_task.png` |
+| RQ2 (performance and risk) | `R03`, `wilcoxon_llm_vs_coding_tools.csv`, `risk_distribution_scale_order.png` |
+| RQ3 (verification) | `role_verification_method_comparisons.csv`, `R13`, `verification_methods.png` |
+| RQ4 (failures) | `R12`, `R21`, `R22`, `R23` |
+| RQ5 primary analysis | `R04`-`R08`, `future_use_by_risk_and_task.png` |
+| RQ5 underlying factors | `R14`, `R15`, `R16`, `R20` |
+| RQ5 secondary regression | `R09`, `regression_future_intent_standardized_OLS.csv` |
+| Section 3.6 (intercoder reliability) | `R24`, `R24b`, `R25` |
 
 ## Privacy
 
