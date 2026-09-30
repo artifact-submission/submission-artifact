@@ -54,5 +54,4 @@ their code assignments and themes, so that the coding can be checked directly.
 Identifying details inside responses, such as an employer's name, were replaced
 with placeholders (e.g., "[employer]"). In the reliability workbook, coder
 memos were optional and were recorded by Coder A.
-Each respondent keeps the anonymous ID (P001-P153) used across all files; one
-consent-only record (P148) was excluded, leaving 152 respondents.
+Each respondent keeps the anonymous ID (P001-P153) used across all files.
