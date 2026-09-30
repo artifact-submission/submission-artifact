@@ -16,8 +16,7 @@ inputs/                                  De-identified inputs to the analysis
 scripts/
   run_analysis_artifact.py                 Reproduces all analyses and figures
   make_deidentified_artifact.py            Documents how the public inputs were produced
-outputs/                                 All statistical outputs and figures
-  revision/                                Analyses R01-R25 (see table below)
+outputs/                                 All statistical outputs and figures/Analyses R01-R25 (see table below)                                  
 survey/
   Survey.pdf                               Survey instrument (Appendix A of the paper)
 requirements.txt                         Python dependencies
