@@ -1,0 +1,6 @@
+consequence_or_condition,remediation_only_n,remediation_only_hits,remediation_only_pct,advisory_only_n,advisory_only_hits,advisory_only_pct,fisher_exact_p
+Realized harm (adverse outcome or operational disruption),42,9,21.428571428571427,28,3,10.714285714285714,0.33786392715193925
+Wasted effort or unnecessary remediation,42,0,0.0,28,6,21.428571428571427,0.0028733338654321973
+Independent verification,42,3,7.142857142857143,28,7,25.0,0.07695522058472336
+Harm prevented before adoption,42,2,4.761904761904762,28,0,0.0,0.5130434782608696
+Missing contextual knowledge,42,2,4.761904761904762,28,7,25.0,0.024645711150691405

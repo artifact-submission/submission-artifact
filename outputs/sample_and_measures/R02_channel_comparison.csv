@@ -1,0 +1,8 @@
+variable,median_prolific,n_prolific,median_other,n_other,p_MWU
+future_intent_score,4.333333333333333,103,4.0,47,0.233789351743796
+risk_score,3.0,104,3.0,46,0.15505970598821708
+overall_performance_score,3.5,104,3.5,44,0.8660741572355573
+verification_breadth_score,3.0,105,3.0,47,0.5742702286370689
+overall_ai_usage_score,3.5,104,3.5,44,0.42271297333034596
+experience_score,3.0,105,3.0,47,0.1725894106168776
+security_task_frequency_score,3.0,105,3.0,47,0.11995917865034386

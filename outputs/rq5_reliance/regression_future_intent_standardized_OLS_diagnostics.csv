@@ -1,0 +1,2 @@
+model,n,n_predictors,r2,adjusted_r2,robust_wald_chi2,wald_df,wald_p_value,robust_f,f_df_num,f_df_den,f_p_value,min_vif,max_vif
+main_broad_verification_breadth,144,7,0.2451309957310247,0.2062774440407098,40.16885255930461,7,1.1685000935354177e-06,5.738407508472087,7,136,7.822808635383833e-06,1.1146479323605196,1.3312764270774893

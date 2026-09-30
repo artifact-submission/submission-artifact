@@ -1,0 +1,3 @@
+measure,task,comparison,n_pairs,median_LLM,median_CodingTool,mean_difference,wilcoxon_statistic,p_value,effect_r_approx,p_holm
+explanation_helpfulness,explanation,CodingTool minus LLM,32,4.0,4.0,-0.062,56.0,0.8057207949022668,0.058658846008541314,0.8057207949022668
+explanation_clarity,explanation,CodingTool minus LLM,32,4.0,4.0,-0.219,53.5,0.2555678061525173,0.26406707856254424,0.5111356123050346

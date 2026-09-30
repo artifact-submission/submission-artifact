@@ -1,0 +1,13 @@
+task,item,n,percent_of_respondents
+detection,Traditional Static Analyzers,90,59.2
+detection,Dynamic Analysis & Fuzzing Tools,66,43.4
+detection,Dependency/Supply Chain Tools,56,36.8
+detection,Container & Infrastructure Security Tools,50,32.9
+explanation,Traditional Static Analyzers,64,42.1
+explanation,Dynamic Analysis & Fuzzing Tools,52,34.2
+explanation,Dependency/Supply Chain Tools,45,29.6
+explanation,Container & Infrastructure Security Tools,30,19.7
+repair,Traditional Static Analyzers,54,35.5
+repair,Dependency/Supply Chain Tools,51,33.6
+repair,Dynamic Analysis & Fuzzing Tools,50,32.9
+repair,Container & Infrastructure Security Tools,46,30.3

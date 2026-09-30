@@ -1,0 +1,21 @@
+                          model   n  n_predictors       r2  adjusted_r2  robust_wald_chi2  wald_df  wald_p_value  robust_f  f_df_num  f_df_den  f_p_value  min_vif  max_vif
+main_broad_verification_breadth 144             7 0.245131     0.206277         40.168853        7      0.000001  5.738408         7       136   0.000008 1.114648 1.331276
+
+                          model                          term      std_beta  robust_se_hc3             z  p_value  ci95_low  ci95_high
+main_broad_verification_breadth                         const  1.110223e-16       0.076567  1.449993e-15 1.000000 -0.150069   0.150069
+main_broad_verification_breadth     overall_performance_score  3.307413e-01       0.082209  4.023181e+00 0.000057  0.169615   0.491868
+main_broad_verification_breadth                    risk_score -1.199868e-01       0.090715 -1.322683e+00 0.185941 -0.297784   0.057811
+main_broad_verification_breadth    verification_breadth_score  1.602296e-01       0.077076  2.078857e+00 0.037630  0.009164   0.311295
+main_broad_verification_breadth  traditional_preference_score -1.828692e-01       0.084872 -2.154642e+00 0.031190 -0.349216  -0.016523
+main_broad_verification_breadth    negative_fix_outcome_score  1.726810e-02       0.086500  1.996320e-01 0.841768 -0.152268   0.186804
+main_broad_verification_breadth              experience_score  1.772348e-02       0.085323  2.077231e-01 0.835445 -0.149506   0.184953
+main_broad_verification_breadth security_task_frequency_score  2.319689e-02       0.078796  2.943918e-01 0.768459 -0.131240   0.177634
+
+                          model                          term      vif
+main_broad_verification_breadth     overall_performance_score 1.227154
+main_broad_verification_breadth                    risk_score 1.331276
+main_broad_verification_breadth    verification_breadth_score 1.182597
+main_broad_verification_breadth  traditional_preference_score 1.196336
+main_broad_verification_breadth    negative_fix_outcome_score 1.206243
+main_broad_verification_breadth              experience_score 1.114648
+main_broad_verification_breadth security_task_frequency_score 1.176832

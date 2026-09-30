@@ -1,0 +1,5 @@
+stage,n,percent_of_incidents,eligible_incidents
+Remediation-stage failure,45,50.6,89
+Advisory-stage failure (detection/explanation),31,34.8,89
+Both,3,3.4,89
+"Neither (e.g., outdated guidance or consequence-only)",16,18.0,89

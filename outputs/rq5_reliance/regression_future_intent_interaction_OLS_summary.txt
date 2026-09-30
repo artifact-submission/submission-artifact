@@ -1,0 +1,23 @@
+                                   model   n  n_predictors       r2  adjusted_r2  robust_wald_chi2  wald_df  wald_p_value  robust_f  f_df_num  f_df_den  f_p_value  min_vif  max_vif
+interaction_risk_by_verification_breadth 144             8 0.248824      0.20431         39.979546        8      0.000003  4.997443         8       135   0.000019 1.121801  1.33156
+
+                                   model                          term  std_beta  robust_se_hc3         z  p_value  ci95_low  ci95_high
+interaction_risk_by_verification_breadth                         const -0.004346       0.077927 -0.055771 0.955524 -0.157081   0.148389
+interaction_risk_by_verification_breadth     overall_performance_score  0.326552       0.083616  3.905379 0.000094  0.162668   0.490436
+interaction_risk_by_verification_breadth                    risk_score -0.121011       0.094986 -1.273983 0.202669 -0.307180   0.065159
+interaction_risk_by_verification_breadth    verification_breadth_score  0.172699       0.079231  2.179702 0.029280  0.017410   0.327988
+interaction_risk_by_verification_breadth  traditional_preference_score -0.175056       0.085905 -2.037781 0.041572 -0.343426  -0.006685
+interaction_risk_by_verification_breadth    negative_fix_outcome_score  0.012309       0.087160  0.141220 0.887696 -0.158522   0.183140
+interaction_risk_by_verification_breadth              experience_score  0.012584       0.085263  0.147586 0.882669 -0.154529   0.179696
+interaction_risk_by_verification_breadth security_task_frequency_score  0.036905       0.078758  0.468588 0.639364 -0.117457   0.191267
+interaction_risk_by_verification_breadth   risk_x_verification_breadth  0.065428       0.082353  0.794475 0.426919 -0.095982   0.226837
+
+                                   model                          term      vif
+interaction_risk_by_verification_breadth     overall_performance_score 1.231906
+interaction_risk_by_verification_breadth                    risk_score 1.331560
+interaction_risk_by_verification_breadth    verification_breadth_score 1.224697
+interaction_risk_by_verification_breadth  traditional_preference_score 1.212867
+interaction_risk_by_verification_breadth    negative_fix_outcome_score 1.212902
+interaction_risk_by_verification_breadth              experience_score 1.121801
+interaction_risk_by_verification_breadth security_task_frequency_score 1.227710
+interaction_risk_by_verification_breadth   risk_x_verification_breadth 1.157003

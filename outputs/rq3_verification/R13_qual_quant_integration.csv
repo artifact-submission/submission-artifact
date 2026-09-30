@@ -1,0 +1,9 @@
+comparison,variable,mean_a,n_a,mean_b,n_b,p_MWU
+repair-failure incident vs other incident,future_repair_num,4.2444444444444445,45,3.9318181818181817,44,0.21386135612949342
+eligible incident reporter vs non-reporter,future_repair_num,4.089887640449438,89,3.9166666666666665,60,0.1921045262073411
+repair-failure incident vs other incident,future_explanation_num,4.4222222222222225,45,4.431818181818182,44,0.8565986424052457
+eligible incident reporter vs non-reporter,future_explanation_num,4.426966292134831,89,4.3,60,0.3825731542843409
+repair-failure incident vs other incident,risk_score,2.888888888888889,45,3.159090909090909,44,0.11766214764493281
+eligible incident reporter vs non-reporter,risk_score,3.0224719101123596,89,3.0655737704918034,61,0.9577458834284018
+repair-failure incident vs other incident,verification_breadth_score,3.088888888888889,45,2.840909090909091,44,0.18795358586454447
+eligible incident reporter vs non-reporter,verification_breadth_score,2.966292134831461,89,2.3968253968253967,63,0.0010518737514883965

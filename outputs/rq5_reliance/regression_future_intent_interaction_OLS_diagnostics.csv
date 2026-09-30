@@ -1,0 +1,2 @@
+model,n,n_predictors,r2,adjusted_r2,robust_wald_chi2,wald_df,wald_p_value,robust_f,f_df_num,f_df_den,f_p_value,min_vif,max_vif
+interaction_risk_by_verification_breadth,144,8,0.24882433309561958,0.20431021950128592,39.979546133243204,8,3.2319479991885174e-06,4.9974432666554005,8,135,1.930685520785204e-05,1.1218008329846367,1.3315603243605425

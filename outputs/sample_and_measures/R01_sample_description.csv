@@ -1,0 +1,17 @@
+variable,level,n,percent
+experience,Three to five,55.0,36.2
+experience,One to two,36.0,23.7
+experience,Six to ten,36.0,23.7
+experience,Eleven or more,16.0,10.5
+experience,Less than one,9.0,5.9
+security_frequency,Sometimes,57.0,37.5
+security_frequency,Often,43.0,28.3
+security_frequency,Rarely,31.0,20.4
+security_frequency,Very often,18.0,11.8
+security_frequency,Never,3.0,2.0
+channel,Prolific,105.0,69.1
+channel,Community/university,47.0,30.9
+duration_min,median,,11.0
+duration_min,Q1,,7.8
+duration_min,Q3,,15.2
+duration_min,under 4 min,5.0,

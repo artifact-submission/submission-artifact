@@ -1,0 +1,21 @@
+                                   model   n  n_predictors       r2  adjusted_r2  robust_wald_chi2  wald_df  wald_p_value  robust_f  f_df_num  f_df_den  f_p_value  min_vif  max_vif
+sensitivity_assurance_grade_verification 144             7 0.234909     0.195529           41.8476        7  5.563376e-07  5.978229         7       136   0.000004 1.097831 1.326249
+
+                                   model                               term      std_beta  robust_se_hc3             z  p_value  ci95_low  ci95_high
+sensitivity_assurance_grade_verification                              const  1.387779e-16       0.077267  1.796083e-15 1.000000 -0.151440   0.151440
+sensitivity_assurance_grade_verification          overall_performance_score  3.511195e-01       0.085427  4.110155e+00 0.000040  0.183685   0.518554
+sensitivity_assurance_grade_verification                         risk_score -1.071738e-01       0.092259 -1.161666e+00 0.245371 -0.287998   0.073650
+sensitivity_assurance_grade_verification assurance_grade_verification_score  1.122976e-01       0.083583  1.343545e+00 0.179096 -0.051522   0.276117
+sensitivity_assurance_grade_verification       traditional_preference_score -1.826777e-01       0.086942 -2.101152e+00 0.035628 -0.353080  -0.012275
+sensitivity_assurance_grade_verification         negative_fix_outcome_score  2.345141e-02       0.089476  2.620969e-01 0.793247 -0.151919   0.198821
+sensitivity_assurance_grade_verification                   experience_score  2.807188e-02       0.086553  3.243314e-01 0.745687 -0.141569   0.197713
+sensitivity_assurance_grade_verification      security_task_frequency_score  4.992287e-02       0.075970  6.571382e-01 0.511092 -0.098976   0.198822
+
+                                   model                               term      vif
+sensitivity_assurance_grade_verification          overall_performance_score 1.189363
+sensitivity_assurance_grade_verification                         risk_score 1.326249
+sensitivity_assurance_grade_verification assurance_grade_verification_score 1.097831
+sensitivity_assurance_grade_verification       traditional_preference_score 1.207157
+sensitivity_assurance_grade_verification         negative_fix_outcome_score 1.226803
+sensitivity_assurance_grade_verification                   experience_score 1.104173
+sensitivity_assurance_grade_verification      security_task_frequency_score 1.113517

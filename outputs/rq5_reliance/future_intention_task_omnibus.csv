@@ -1,0 +1,3 @@
+subgroup,n_complete,friedman_chi2,df,p_value,p_holm_across_2_subgroups
+All respondents,149,25.442060085836562,2,2.987630251232048e-06,5.975260502464096e-06
+High perceived risk (4--5),43,22.489361702127745,2,1.307666974422195e-05,1.307666974422195e-05

@@ -1,0 +1,7 @@
+item,n,percent_of_respondents
+Explanations lacked sufficient context about the codebase,87,57.2
+Explanations overstated or understated the severity,67,44.1
+Explanations were too vague or generic,61,40.1
+Explanations were incorrect or misleading,54,35.5
+Explanations were too technical or jargon-heavy,47,30.9
+Explanations recommended insecure patterns,31,20.4

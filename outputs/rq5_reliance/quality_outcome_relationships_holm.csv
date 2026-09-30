@@ -1,0 +1,9 @@
+family,x,y,n,rho,p,p_holm_within_family
+repair_outcomes_4,positive_fix_outcome_score,risk_score,148,-0.2888997938907893,0.00036936147593308116,0.0007387229518661623
+repair_outcomes_4,positive_fix_outcome_score,future_intent_score,148,0.4680398571863305,1.994669603111582e-09,7.978678412446328e-09
+repair_outcomes_4,negative_fix_outcome_score,risk_score,147,0.35586609411813813,9.711385254468956e-06,2.9134155763406868e-05
+repair_outcomes_4,negative_fix_outcome_score,future_intent_score,147,-0.1158641831660468,0.16226401697921927,0.16226401697921927
+tool_specific_explanation_quality_4,llm_explanation_quality_score,risk_score,93,-0.11693906163861223,0.2642927451902706,0.2642927451902706
+tool_specific_explanation_quality_4,llm_explanation_quality_score,future_intent_score,93,0.406235044576803,5.338912057640655e-05,0.00016016736172921967
+tool_specific_explanation_quality_4,coding_explanation_quality_score,risk_score,69,-0.38986649588213296,0.000928347698973617,0.001856695397947234
+tool_specific_explanation_quality_4,coding_explanation_quality_score,future_intent_score,69,0.47744628951116186,3.3508492616619166e-05,0.00013403397046647667

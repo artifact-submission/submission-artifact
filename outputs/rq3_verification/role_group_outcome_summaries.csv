@@ -1,0 +1,13 @@
+outcome,role_group,n,median,q1,q3,iqr
+security_task_frequency,Security-focused professionals,44,4.0,3.0,5.0,2.0
+security_task_frequency,General developers/software engineers,82,3.0,2.25,4.0,1.75
+security_task_frequency,Students/learners,20,3.0,2.0,4.0,2.0
+verification_breadth,Security-focused professionals,44,3.0,2.0,4.0,2.0
+verification_breadth,General developers/software engineers,82,3.0,2.0,3.0,1.0
+verification_breadth,Students/learners,20,2.5,2.0,3.0,1.0
+perceived_risk,Security-focused professionals,43,3.0,3.0,4.0,1.0
+perceived_risk,General developers/software engineers,81,3.0,2.0,4.0,2.0
+perceived_risk,Students/learners,20,3.0,3.0,3.0,0.0
+future_use_intention,Security-focused professionals,44,4.333333333333333,3.6666666666666665,5.0,1.3333333333333335
+future_use_intention,General developers/software engineers,80,4.333333333333333,4.0,5.0,1.0
+future_use_intention,Students/learners,20,4.166666666666666,4.0,4.75,0.75
